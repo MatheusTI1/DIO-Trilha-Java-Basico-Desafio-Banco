@@ -1,4 +1,4 @@
-## Desafio DIO Banco
+## Projeto DIO Banco
 
 Bem vindo ao meu projeto, este projeto foi realizado para a resolução de um desafio proposto pela DIO (Digital Innovation One), no curso "Formação Java Developer"
 ## Desafios:
